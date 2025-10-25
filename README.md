@@ -2,7 +2,13 @@
   ## 🎯 Overview
   An inclusive GenAI platform that uses NFC technology to make Cantonese opera accessible to minorities and people with disabilities through personalized multi-language and multi-sensory experiences.
 
-  ## 💫 Functions & Purpose 
+  ## Functions 
+  *  Muti languages, Functions,
+  *  Interested topics
+  *  Videos with AI subtitles and AI audio narrative
+  *  Text-to-Speech function 
+
+  ## 💫 Purpose 
   #### 1. Foster Inclusive Engagement using NFC
   We aim to create platforms like mobile apps or NFC-triggered workshops to make it more interactive and fun to learn about Cantonese culture. There is a NFC tag for each exhibit. The user can save the information of the exhibits they find interesting by tapping their phone on the NFC tag and save it on the app. Afterwards, they can click on what they have saved in more details and ask for further information about it. 
   #### 2. Allow diverse groups to learn about Cantonese opera 
